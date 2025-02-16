@@ -18,6 +18,7 @@ const Header = () => {
         <img src={Logo} alt="" />
       </div>
 
+
       <div className={`${styles.burger_menu} ${menuOpen ? styles.open : ""}`} onClick={toggleMenu}>
         <span></span>
         <span></span>

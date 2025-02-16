@@ -1,0 +1,9 @@
+.main_phone_image {
+    width: 90%;
+    margin: 3rem auto 0 auto;
+
+}
+
+.main_phone_image img {
+    max-width: 100%;
+}

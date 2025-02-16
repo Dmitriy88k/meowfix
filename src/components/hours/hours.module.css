@@ -1,7 +1,30 @@
 .business_hours {
-  background:#004AAD;
-  width: 100%;
+  background: black;
   color: white;
-  margin: 0 auto;
-  text-align: center;
+  width: 100%;
+  margin: 3rem auto 0 auto;
+  padding: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: start;
+  height: 35vh;
 }
+
+.business_hours h2 {
+  padding-bottom: 1rem;
+}
+
+.business_hours p {
+  padding-bottom: .3rem;
+  display: flex; 
+  justify-content: center;
+  width: 100%; 
+}
+
+.business_day {
+  width: 3.12rem;
+}
+
+
